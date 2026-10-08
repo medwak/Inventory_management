@@ -1,0 +1,41 @@
+{
+  "id": "79086d7b-df78-46a4-b973-75449e2449c0",
+  "name": "Multi-Industry Inventory Management Tests",
+  "publisher": "Medwak",
+  "version": "1.0.0.0",
+  "brief": "Automated tests for the Multi-Industry Inventory Management app.",
+  "description": "Automated tests for posting, costing, FEFO/lot handling, industry rules and replenishment.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "d617dc4c-2645-48af-885b-045d6e1443de",
+      "name": "Multi-Industry Inventory Management",
+      "publisher": "Medwak",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+      "name": "Library Assert",
+      "publisher": "Microsoft",
+      "version": "24.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50150,
+      "to": 50169
+    }
+  ],
+  "runtime": "13.0",
+  "target": "Cloud",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

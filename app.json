@@ -1,0 +1,34 @@
+{
+  "id": "d617dc4c-2645-48af-885b-045d6e1443de",
+  "name": "Multi-Industry Inventory Management",
+  "publisher": "Medwak",
+  "version": "1.0.0.0",
+  "brief": "Scalable, industry-configurable inventory management built on Business Central (NAV) design patterns.",
+  "description": "Item master, multi-location/bin stock, lot/serial/expiry tracking, journal-to-ledger posting with FIFO/FEFO/LIFO application, actual/average/standard costing, replenishment planning and REST APIs. Industry behaviour (Retail, Pharmaceutical, Food & Beverage, Manufacturing, Construction, General) is plugged in through an extensible enum + interface.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "target": "Cloud",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
